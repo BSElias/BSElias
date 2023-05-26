@@ -2,7 +2,7 @@
 <br />
 <br />
 
-- 💬 Ask me about **HTML5, CSS, SCSS , JavaScript, ReactJS Node, Java, C# full-stack, web, or literally anything!**
+- 💬 Ask me about **HTML5, CSS, SCSS , JavaScript, ReactJS Node, Java, C#,  full-stack, web, or literally anything!**
 
 - 📫 How to reach me **salguerobustoselias@gmail.com**
 
@@ -12,7 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/bselias/)](https://www.linkedin.com/in/bselias/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salguerobustoselias@gmail.com)](mailto:salguerobustoselias@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:)](mailto:)
-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -24,8 +23,6 @@
 
 <br />
 <br />
-
-
 
 ⭐️ From [BSElias](https://github.com/BSElias)
 <!--
